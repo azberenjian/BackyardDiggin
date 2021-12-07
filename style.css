@@ -1,0 +1,23 @@
+html{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 100px auto 0 auto;
+  width: 80%;
+  text-align: center;
+  font-family: "Courier New";
+  background-color: black;
+  color: #26524a;
+  background-image: url('sitebg.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* https://itsumitky.tumblr.com/post/180238137333/grassy-valley-a-nice-place-for-jogging */
+}
+
+canvas {
+  margin: auto;
+  display: block;
+  border: 5px solid black;
+}
